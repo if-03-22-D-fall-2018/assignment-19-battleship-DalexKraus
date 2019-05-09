@@ -3,7 +3,7 @@
  *-----------------------------------------------------------------------------
  * Exercise Number: #exercise_number#
  * File:			battleship.c
- * Author(s):		Peter Bauer
+ * Author(s):		David Kraus
  * Due Date:		#due#
  *-----------------------------------------------------------------------------
  * Description:
